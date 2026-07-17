@@ -1,0 +1,23 @@
+{
+  "name": "WorkBridge Thailand",
+  "short_name": "WorkBridge",
+  "description": "Cross-border employment platform linking Myanmar workers with Thai employers, featuring document verification, application fee management, and location mapping.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "/src/assets/images/workbridge_logo_1782977402938.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/src/assets/images/workbridge_logo_1782977402938.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

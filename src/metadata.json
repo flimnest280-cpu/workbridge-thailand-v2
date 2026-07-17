@@ -1,0 +1,6 @@
+{
+  "name": "WorkBridge Thailand",
+  "description": "Cross-border employment platform linking Myanmar workers with Thai employers, featuring document verification, application fee management, and location mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
